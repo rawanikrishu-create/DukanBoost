@@ -1,0 +1,6 @@
+{
+  "name": "DukaanBoost - Digital Growth Assistant for Indian Retailers",
+  "description": "Simple, practical digital growth assistant for Indian retail shops and dukandars. Understand customers, increase repeat visits, manage fast-moving stock, and drive sales via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
